@@ -208,4 +208,6 @@ print(f"Ditemukan {len(results)} dokumen")
 - [ ] Machine learning-based result ranking
 
 
+---
+
 **Made by Lucians** 
